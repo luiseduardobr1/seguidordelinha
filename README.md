@@ -19,6 +19,6 @@ Todos os esquemáticos das montagens estão contidos no repositório, os quais e
 O circuito foi simulado no *software* Proteus, o qual o arquivo está contido em **Projeto-Final.pdsprj**
 
 # Montagem e Teste
-O carrinho conseguiu completar o circuito em 1min37s durante a avaliação da disciplina de Eletrônica Digital (UFC - 2019) sendo o mais rápido dentre os apresentados, como mostrado no vídeo abaixo:\
+O carrinho conseguiu completar o circuito em 1min37s durante a avaliação da disciplina de Eletrônica Digital (UFC - 2019) sendo o mais rápido dentre os apresentados, como mostrado no vídeo abaixo:
 
 [![Seguidor de Linha Portas Lógicas](https://img.youtube.com/vi/th3yvXdkAdE/0.jpg)](https://www.youtube.com/watch?v=th3yvXdkAdE)
